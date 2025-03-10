@@ -3,7 +3,7 @@
 - 📊 Dataset: MNIST - an inbuilt torchvision Image Classification Dataset
 - 📚Labels: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
   
-- # ⚙️🧩 First Model Architecture: 
+- # ⚙️🧩 <a href="https://github.com/Smita1908/Handwritten-digit-recognition/blob/main/Image_classification_with_Logistic_Regression.ipynb"> First Model Architecture: </a>
   - Logistic Regression model containing one fully connected linear layer 
   - Input: Each training example is a vector, each `1x28x28` image tensor is flattened into a vector of size `784 (28*28)` before being passed into the model
   - Output:
@@ -18,7 +18,7 @@
      - Validation accuracy: Improved with each epoch
     -📜🚩Conclusion: Linear model does not take into consideration the non linear relationship which can be there in the data
        
- - # ⚙️🧩 Second Model Architecture:
+ - # ⚙️🧩 <a href="Feedforward_neural_netwrok.ipynb"> Second Model Architecture: </a>
    - Fully connected Neural Network with following layers:
         - An Input layer
         - A  hidden layer
